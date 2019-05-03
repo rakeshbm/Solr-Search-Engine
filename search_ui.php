@@ -154,7 +154,7 @@ if ($results)
 				
 				$lower_complete = strtolower(trim($complete));
 				
-				echo "<label>Showing results for " . $tbString . ". <br><b>Did you mean </b><a href='hw.php?q=".$lower_complete."' style='color:red;'>" . $complete . "</a><b>?</b></label>";
+				echo "<label>Showing results for " . $tbString . ". <br><b>Did you mean </b><a href='search_ui.php?q=".$lower_complete."' style='color:red;'>" . $complete . "</a><b>?</b></label>";
 			}
   $total = (int) $results->response->numFound;
   $start = min(1, $total);
