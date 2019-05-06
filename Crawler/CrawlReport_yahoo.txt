@@ -1,5 +1,4 @@
-Name: Rakesh Bhimappa Mali
-USC ID: 1134567919
+Rakesh Bhimappa Mali
 News site crawled: yahoo.com/news
 
 Fetch Statistics
