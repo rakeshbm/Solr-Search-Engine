@@ -1,4 +1,4 @@
-# News-Crawler
+# Crawler for Search Engine
 A news website crawler using Crawler4j
 
 Configured and compiled Crawler4j web crawler to crawl www.yahoo.com/news
