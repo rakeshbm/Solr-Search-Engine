@@ -44,11 +44,14 @@ Spell corrector feature is makes use of Peter Norvig's [dictionary](www.norvig.c
 Homepage:
 <kbd><img src = "screenshots/Homepage.PNG"></kbd>
 
+
 Autocompletion feature:
 <kbd><img src = "screenshots/autocomplete.PNG"></kbd>
 
+
 Spellcorrection feature:
 <kbd><img src = "screenshots/spell-correct.PNG"></kbd>
+
 
 Search results:
 <kbd><img src = "screenshots/results.PNG"></kbd>
