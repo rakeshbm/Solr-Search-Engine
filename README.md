@@ -5,14 +5,19 @@ A Solr search engine with PHP web userinterface to index and search yahoo news a
 ### Web Crawler:
 
 Extended crawler4j, an open source web crawler for Java, to crawl Yahoo News articles with the following configurations:
+
 Crawling seed: https://www.yahoo.com/news
+
 Crawling depth: 16
+
 Number of crawlers: 20000
 
 Under *Crawler*, please refer to *MyController.java* for controller for the crawler and *MyCrawler.java* for the implementation of crawler logic.
 
 Crawling statistics can be found in the following files:
+
 visit_yahoo.csv - statistics of news artciles visited.
+
 fetch_yahoo.csv - statistics of news articles actually fetched.
 
 ### Apache Solr:
