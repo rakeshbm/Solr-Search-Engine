@@ -20,18 +20,24 @@ visit_yahoo.csv - statistics of news artciles visited.
 
 fetch_yahoo.csv - statistics of news articles actually fetched.
 
+
 ### Apache Solr:
 
 Solr schema file: *managed-schema*
+
 Solr configurations file: *solrconfig.xml*
+
 
 ### User Interface:
 
 Script: *search_ui.php*
+
 Technologies: PHP, HTML, jQuery, Bootstrap
 
 A [HTML DOM Parser in PHP] (https://simplehtmldom.sourceforge.io/) is used for easy manipulation of HTML.
+
 Spell corrector feature is makes use of Peter Norvig's [dictionary] (www.norvig.com/big.txt).
+
 
 ### Snapshots:
 
