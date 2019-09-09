@@ -42,13 +42,13 @@ Spell corrector feature is makes use of Peter Norvig's [dictionary](www.norvig.c
 ### Snapshots:
 
 Homepage:
-![alt text](screenshots/Homepage.PNG)
+<kbd><img src = "screenshots/Homepage.PNG"></kbd>
 
 Autocompletion feature:
-![alt text](screenshots/autocomplete.PNG)
+<kbd><img src = "screenshots/autocomplete.PNG"></kbd>
 
 Spellcorrection feature:
-![alt text](screenshots/spell-correct.PNG)
+<kbd><img src = "screenshots/spell-correct.PNG"></kbd>
 
 Search results:
-![alt text](screenshots/results.PNG)
+<kbd><img src = "screenshots/results.PNG"></kbd>
